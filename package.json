@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/andrefs/node-tnt-tagger/issues"
   },
-  "homepage": "https://github.com/andrefs/node-tnt-tagger#readme"
+  "homepage": "https://github.com/andrefs/node-tnt-tagger#readme",
+  "dependencies": {
+    "cetem-publico": "^0.1.0"
+  }
 }
