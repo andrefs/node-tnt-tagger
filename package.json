@@ -28,6 +28,6 @@
   },
   "homepage": "https://github.com/andrefs/node-tnt-tagger#readme",
   "dependencies": {
-    "cetem-publico": "^0.3.0"
+    "cetem-publico": "^0.3.1"
   }
 }
