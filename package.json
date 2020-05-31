@@ -1,6 +1,6 @@
 {
   "name": "tnt-tagger",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A statistical part-of-speech tagger",
   "main": "index.js",
   "directories": {
