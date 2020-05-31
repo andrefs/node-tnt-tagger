@@ -95,6 +95,10 @@ t.train(corpus)
 
 ## Acknowledgements
 
+Thanks to Thorsten Brants for the original version of this algorithm,
+and to NLTK's team for the implementation in which this module is
+based on.
+
 ## Bugs and stuff
 
 Open a GitHub issue or, preferably, send me a pull request.
